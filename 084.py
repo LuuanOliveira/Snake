@@ -28,4 +28,3 @@ for pessoa in pessoas:
     if pessoa[1] == menospesado:
         print(f'[{pessoa[0]}]')
 print()
-
