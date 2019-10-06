@@ -21,10 +21,10 @@ def contador(inicio, fim, passo):
         print('FIM')
     else:
         cont = inicio
-        while cont >= fim
-        print(f'{cont} ', end='')
-        sleep(0.5)
-        cont -= passo
+        while cont >= fim:
+            print(f'{cont} ', end='')
+            sleep(0.5)
+            cont -= passo
     print('FIM')
 
 contador(1, 10, 1)
